@@ -125,16 +125,16 @@ function leaveTheShire() {
 leaveTheShire();
 // Part 7
 
-var membersOfFellowship = rivendell.querySelector('li');
+//var membersOfFellowship = rivendell.querySelector('li');
 function forgeTheFellowShip() {
   // create a new div called 'the-fellowship' within rivendell
-  var the-fellowship = document.createElement('div');
+ // var the-fellowship = document.createElement('div');
   //rivendell.appendChild(the-fellowship);
   //console.log(the-fellowship);
   // add each hobbit and buddy one at a time to 'the-fellowship'
   // after each character is added make an alert that they have joined your party
 }
-forgeTheFellowShip();
+//forgeTheFellowShip();
 
 // Part 8
 
